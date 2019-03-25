@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidWebService</string>
+    <string name="str_parsing">查詢API中，請稍候</string>
+    <string name="connection_error">無法找到可用連線，請檢查網路連線</string>
+    <string name="lost_connection">失去網路連線</string>
+    <string name="wifi_connected">網路已連線</string>
+    <string name="str_parsing_ok">解析成功</string>
+    <string name="str_user_choose">您選擇的是：</string>
+
+</resources>
